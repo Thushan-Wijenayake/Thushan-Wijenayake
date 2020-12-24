@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center" color=#00ffff >Hey Guys..! Welcome to my Profile.. I'm Thushan <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0010.gif" width="40px" /> </h1>
 
 <!--
 **Thushan-Wijenayake/Thushan-Wijenayake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
