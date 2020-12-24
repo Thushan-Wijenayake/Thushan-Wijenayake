@@ -1,6 +1,5 @@
-<div class="text-purple">
-<h1 class="text-inherit" align="center">Hey Guys..! Welcome to my Profile.. I'm Thushan <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0010.gif" width="40px" /> </h1>
-</div>
+
+<h1 align="center">Hey Guys..! Welcome to my Profile.. I'm Thushan <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0010.gif" width="40px" /> </h1>
 <br/>
 
 <div>
