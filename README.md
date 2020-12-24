@@ -3,7 +3,7 @@
 <div>
 <img width = "40%" align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" />
 <div align="left">
-  <h3>👨‍💻 About me 👇👇👇</h3>
+  <h3>👨‍💼 About me 👇👇👇</h3>
   
 - 🎓 Studying Information Technology at University of Colombo.
 - 🔭 I’m currently working as a Frontend Developer at Developers-In.
@@ -37,7 +37,7 @@
   
   <br />
 
-<h3> 🤝🏻 &nbsp;Talk with me, I am kinda awesome: </h3>
+<h3 marginTop="0px"> 🤝🏻 &nbsp;Talk with me, I am kinda awesome: </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/thushan-wijenayake-8300b51b7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thushan%20Wijenayake-indigo?style=flat-square&logo=linkedin"></a>
