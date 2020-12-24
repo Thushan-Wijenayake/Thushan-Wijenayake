@@ -56,10 +56,10 @@
 
 <h3> 🤝🏻 &nbsp;Talk with me, I am kinda awesome: </h3>
 
-<p align="center">
+
 <img align="left" alt="thushan-wijenayake | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <img align="left" alt="thushan-wijenayake | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-</p>
+
 
 
 [instagram]: https://www.instagram.com/__mr._shan__/
