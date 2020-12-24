@@ -54,7 +54,7 @@
 </div>
 <br/>
 
-<div>
+<div width="100%">
 
 <h3> 🤝🏻 &nbsp;Talk with me, I am kinda awesome: </h3>
 
