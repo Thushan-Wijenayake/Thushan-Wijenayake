@@ -36,8 +36,6 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
   <br />
-  
-  <div>
 
 <h3> 🤝🏻 &nbsp;Talk with me, I am kinda awesome: </h3>
 
@@ -46,7 +44,6 @@
 <a href="https://stackoverflow.com/users/14253290/thushan-wijenayake"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-Thushan%20Wijenayake-blue?style=flat-square&logo=stackoverflow&logoColor=white"></a>
 </p>
 
-</div>
 
  <div> 
   
