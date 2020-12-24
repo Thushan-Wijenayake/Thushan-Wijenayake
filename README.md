@@ -52,5 +52,6 @@
 
 </details>
 
-  
+[instagram]: https://www.instagram.com/__mr._shan__/
+[linkedin]: https://www.linkedin.com/in/thushan-wijenayake-8300b51b7
 
