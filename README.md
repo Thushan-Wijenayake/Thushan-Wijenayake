@@ -37,7 +37,7 @@
   
   <br />
 
-<h3 marginTop="0px"> 🤝🏻 &nbsp;Talk with me, I am kinda awesome: </h3>
+<h3 margin="0px"> 🤝🏻 &nbsp;Talk with me, I am kinda awesome: </h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/thushan-wijenayake-8300b51b7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thushan%20Wijenayake-indigo?style=flat-square&logo=linkedin"></a>
