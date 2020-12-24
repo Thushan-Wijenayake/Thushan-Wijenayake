@@ -6,6 +6,7 @@
   <h3>👨‍💻 About me 👇👇👇</h3>
   
 - 🔭 I’m currently working as a Frontend Developer at Developers-In.
+- 🔭 I’m currently working as a Frontend Developer at Developers-In.
 - 🌱 I’m currently learning more about Frontend Architectures and Psychology.
 - 👯 I’m looking to collaborate on on open source.
 - 💬 Ask me about ... Anything
