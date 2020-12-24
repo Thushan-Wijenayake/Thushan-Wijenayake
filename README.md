@@ -1,5 +1,7 @@
 <h1 align="center" color=#00ffff >Hey Guys..! Welcome to my Profile.. I'm Thushan <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0010.gif" width="40px" /> </h1>
 
+<br/>
+
 <div>
 <img width = "40%" align="right" alt="GIF" height="300px" src="https://i.pinimg.com/originals/d0/c6/04/d0c60459431b6ffaecf92fc902ca996d.gif" />
 <div align="left">
