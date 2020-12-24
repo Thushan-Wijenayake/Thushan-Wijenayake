@@ -57,11 +57,8 @@
 <h3> 🤝🏻 &nbsp;Talk with me, I am kinda awesome: </h3>
 
 
-<img align="left" alt="thushan-wijenayake | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="left" alt="thushan-wijenayake | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[instagram]: https://www.instagram.com/__mr._shan__/
-[linkedin]: https://www.linkedin.com/in/thushan-wijenayake-8300b51b7
+<p align="center">
+<a href="https://www.linkedin.com/in/thushan-wijenayake-8300b51b7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Thushan%20Wijenayake-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/14253290/thushan-wijenayake"><img alt="stackoverflow" src="https://img.shields.io/badge/Stack overflow-Thushan%20Wijenayake-blue?style=flat-square&logo=stackoverflow&logoColor=white"></a>
+</p>
 
