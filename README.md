@@ -34,4 +34,22 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  
+  <br />
+  
+  <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Thushan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thushan-Wijenayake&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Thushan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushan-Wijenayake" />
+
+</details>
+
+  
 
