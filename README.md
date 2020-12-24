@@ -35,8 +35,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   
-  <br />
-
 <h3 margin="0px"> 🤝🏻 &nbsp;Talk with me, I am kinda awesome: </h3>
 
 <p align="left">
