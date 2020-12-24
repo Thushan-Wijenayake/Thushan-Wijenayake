@@ -37,19 +37,22 @@
   
   <br />
   
-  <details>
+  <div>
+  
+  <details align="left">
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Thushan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thushan-Wijenayake&show_icons=true&hide_border=true" />
 
 </details>
 
-<details>
+<details align="right">
   <summary>:zap: Most Used Languages</summary>
 
 <img align="left" alt="Thushan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thushan-Wijenayake" />
 
 </details>
 
+</div>
   
 
