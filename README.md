@@ -1,5 +1,7 @@
-<h1 align="center" class="text-blue" >Hey Guys..! Welcome to my Profile.. I'm Thushan <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0010.gif" width="40px" /> </h1>
-
+<h1 align="center">Hey Guys..! Welcome to my Profile.. I'm Thushan <img src="https://www.animatedimages.org/data/media/1645/animated-waving-image-0010.gif" width="40px" /> </h1>
+<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 <br/>
 
 <div>
