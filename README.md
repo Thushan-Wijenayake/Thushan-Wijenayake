@@ -5,14 +5,6 @@
 <div align="left">
   <h3>👨‍💻 About me 👇👇👇</h3>
   
-    - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-  - 🎓 &nbsp; Studying Information Technology at University of Colombo.
-  - 💼 &nbsp; Working as a Frontend Developer at Developers-In.
-  - 🌱 &nbsp; Learning more about Frontend Architectures and Frontend Developement.
-  - ✍️ &nbsp; Pursuing Competitive Programming and Gaming as hobbies/side hustles.
-  
-  
-  
 - 🔭 I’m currently working as a Frontend Developer at Developers-In.
 - 🌱 I’m currently learning more about Frontend Architectures and Psychology.
 - 👯 I’m looking to collaborate on on open source.
