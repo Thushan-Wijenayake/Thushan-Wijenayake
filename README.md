@@ -7,8 +7,8 @@
 <div align="left">
   <h3>👨‍💼 About me 👇👇👇</h3>
   
-- 🎓 Studying Information Technology at University of Colombo.
-- 🔭 I’m currently working as a Frontend Developer at Developers-In.
+- 🎓 Studied Information Technology at University of Colombo.
+- 🔭 I’m currently working as a Frontend Developer.
 - 🌱 Learning more about Frontend Architectures and Psychology.
 - 👯 I’m looking to collaborate on open source.
 - 💬 Ask me about ... Anything
